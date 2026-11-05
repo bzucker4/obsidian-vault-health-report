@@ -1,0 +1,26 @@
+{
+  "name": "vault-health-report",
+  "version": "1.0.0",
+  "description": "Obsidian plugin: frontmatter drift report",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
+    "test": "vitest run",
+    "version": "node version-bump.mjs && git add manifest.json versions.json"
+  },
+  "keywords": [],
+  "author": "Brian Zucker",
+  "license": "0BSD",
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "^0.24.0",
+    "obsidian": "^1.7.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}
