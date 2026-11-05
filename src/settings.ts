@@ -6,7 +6,7 @@ import {
 import type VaultHealthPlugin from "./main";
 
 // Replace with the real Gumroad link before release.
-export const PLAYBOOK_URL = "https://atlascreative0.gumroad.com/l/YOUR-PLAYBOOK";
+export const PLAYBOOK_URL = "https://atlascreative0.gumroad.com/l/VaultCleanupPlaybook";
 
 export interface VaultHealthSettings {
 	rareKeyThreshold: number;

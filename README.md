@@ -36,9 +36,9 @@ Vault Health Report scans your Obsidian vault's frontmatter and shows one report
 
 ## Want help cleaning up?
 
-The report shows where your properties have drifted. If you'd like a clear target to clean up toward, the [Vault Cleanup Playbook](https://atlascreative0.gumroad.com/l/YOUR-PLAYBOOK) from Atlas Creative is a guide to choosing a consistent property scheme, with templates that keep drift from coming back.
+The report shows where your properties have drifted. If you'd like a clear target to clean up toward, the [Vault Cleanup Playbook](https://atlascreative0.gumroad.com/l/VaultCleanupPlaybook) from Atlas Creative is a guide to choosing a consistent property scheme, with templates that keep drift from coming back.
 
-If you'd rather hand it off, Atlas Creative also offers a [done-for-you vault cleanup](https://atlascreative0.gumroad.com/l/YOUR-CLEANUP). Share the output of **Copy report as markdown** and the work is scoped up front, before anything changes.
+If you'd rather hand it off, Atlas Creative also offers a [done-for-you vault cleanup](https://atlascreative0.gumroad.com/l/Done-for-YouObsidianVaultCleanup). Share the output of **Copy report as markdown** and the work is scoped up front, before anything changes.
 
 ## Read-only and private
 
