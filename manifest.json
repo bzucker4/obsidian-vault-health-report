@@ -1,7 +1,7 @@
 {
 	"id": "vault-health-report",
 	"name": "Vault Health Report",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.4.0",
 	"description": "Find drift in your frontmatter: lookalike keys, near-duplicate values, mixed types and date formats, and rare properties. Read-only.",
 	"author": "Brian Zucker",
